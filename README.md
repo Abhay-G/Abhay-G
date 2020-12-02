@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br/>
-<p align = "center">I am a 3rd Year undergraduate student at Vellore Institute of Technology, Bhopal. I aspire to be a valuable resource in society, I love to develop new software and bring my ideas to life. I love making games and webapps. I come up with creative solutions for complex problems.I believe in constant learning and exploring new things, wish to travel around the globe and explore everything.</p>
+<p align = "center">I am a 3rd Year undergraduate student at Vellore Institute of Technology, Bhopal. I aspire to be a valuable resource in society, I love to develop new software and bring my ideas to life. I love making games and webapps. I come up with creative solutions for complex problems. I believe in constant learning and exploring new things, wish to travel around the globe and explore everything.</p>
 
 ----
 
