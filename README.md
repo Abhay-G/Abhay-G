@@ -3,6 +3,7 @@
 <!--
 **Abhay-G/Abhay-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a 3rd Year undergraduate student at Vellore Institute of Technology, Bhopal. I aspire to be a valuable resource in society; help develop software that is going to meet individual client needs. Being a team player with strong analytical and problem solving skills I come up with creative solutions for complex problems.I believe in constant learning and exploring new things; wish to travel the world and explore everything.
