@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhay-gupta-253a45198/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30px" height="30px"></a>  
+</p>
 <br/>
 <p align = "center">I am a 3rd Year undergraduate student at Vellore Institute of Technology, Bhopal. I aspire to be a valuable resource in society, I love to develop new software and bring my ideas to life. I love making games and webapps. I come up with creative solutions for complex problems. I believe in constant learning and exploring new things, wish to travel around the globe and write a book about it.</p>
 
@@ -32,11 +35,10 @@ Here are some ideas to get you started:
 <hr>
 <h3>My GitHub Stats</h3>
 <br>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-G&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35&hide_langs_below=1&layout=compact" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhay-G&show_icons=true&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35" alt="Abhay Gupta's github stats"/>
-</p>
+
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-G&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35&hide_langs_below=1&layout=compact" width="500px"/>|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhay-G&show_icons=true&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35" alt="Abhay Gupta's github stats"  width="600px" />
+|---|---|
+
 ----
 
