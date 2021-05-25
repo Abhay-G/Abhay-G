@@ -29,6 +29,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Is it weird that even now I want to live inside a candy house in the continent made up of chocolates.
 
 ----
+#### Languages & Frameworks
+<br />
+<p align="center">
+  
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-282a35?style=for-the-badge&logo=javascript&logoColor=282a35&labelColor=9580ff" />
+  <img alt="Node" src="https://img.shields.io/badge/Node-282a35?style=for-the-badge&logo=node.js&logoColor=282a35&labelColor=9580ff" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-282a35?style=for-the-badge&logo=java&logoColor=282a35&labelColor=9580ff" />
+  <br />
+  <img alt="HTML5" src="https://img.shields.io/badge/html%205-282a35?style=for-the-badge&logo=html5&logoColor=282a35&labelColor=9580ff" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS%203-282a35?style=for-the-badge&logo=css3&logoColor=282a35&labelColor=9580ff" />
+</p>
+
+----
 <h4>My Published Articles in GeeksForGeeks</h4>
 <p><a href="https://www.geeksforgeeks.org/printing-treemap-having-custom-class-objects-as-keys-or-values-in-java/">Printing TreeMap Having Custom Class Objects as Keys or Values in Java</p>
 <p><a href="https://www.geeksforgeeks.org/how-to-maintain-insertion-order-of-the-elements-in-java-hashmap/">How to Maintain Insertion Order of the Elements in Java HashMap?</p>
