@@ -31,14 +31,17 @@ Here are some ideas to get you started:
 ----
 #### Languages & Frameworks
 <br />
-<p align="center">
+<p align="center">    
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+  <img src="https://img.icons8.com/nolan/48/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/nolan/48/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/nolan/48/unity.png"/>
   
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-282a35?style=for-the-badge&logo=javascript&logoColor=282a35&labelColor=9580ff" />
-  <img alt="Node" src="https://img.shields.io/badge/Node-282a35?style=for-the-badge&logo=node.js&logoColor=282a35&labelColor=9580ff" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-282a35?style=for-the-badge&logo=java&logoColor=282a35&labelColor=9580ff" />
-  <br />
-  <img alt="HTML5" src="https://img.shields.io/badge/html%205-282a35?style=for-the-badge&logo=html5&logoColor=282a35&labelColor=9580ff" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS%203-282a35?style=for-the-badge&logo=css3&logoColor=282a35&labelColor=9580ff" />
 </p>
 
 ----
