@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ----
 
-- 🌱 I’m currently learning BackEnd Development.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Web Development.
-- 💬 Ask me about Java, javascript, UI/UX, GameDevelopment and DSA.
+- 💬 Ask me about Java, javascript, Web Development, UI/UX, GameDevelopment and DSA.
 - ⚡ Fun fact: Is it weird that even now I want to live inside a candy house in the continent made up of chocolates.
 
 ----
