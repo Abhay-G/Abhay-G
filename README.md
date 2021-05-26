@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="45px"/> 
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="45px"/>
+  <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" width="45px"/>
   <img src="https://img.icons8.com/nolan/48/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/nolan/48/unity.png"/>
