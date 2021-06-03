@@ -1,5 +1,5 @@
-<img align="right" width="150" src="https://i.pinimg.com/originals/71/e4/8f/71e48fc875b38b24b70e8cdaf828a040.gif">
-
+<img align="right" width="180" src="https://res.cloudinary.com/doy1foyff/image/upload/v1622733135/output-onlinegiftools_o3zkhz.gif">
+<br/>
 <h3 align ="left" >Hi there, This is Abhay👋😁</h3>
 
 <!--
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://www.linkedin.com/in/abhay-gupta-253a45198/" target="_blank" ><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30px" height="30px"></a>  
 </p>
-<br/>
+
 <p align = "left">I am a 3rd Year undergraduate student at Vellore Institute of Technology, Bhopal. I aspire to be a valuable resource in society, I love to develop new software and bring my ideas to life. I love making games and webapps. I come up with creative solutions for complex problems. I believe in constant learning and exploring new things, wish to travel around the globe and write a book about it.</p>
 
 ----
