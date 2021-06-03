@@ -1,5 +1,5 @@
-<img align="right" width="180" src="https://res.cloudinary.com/doy1foyff/image/upload/v1622733135/output-onlinegiftools_o3zkhz.gif">
-<br/>
+<img align="right" width="200" src="https://res.cloudinary.com/doy1foyff/image/upload/v1622733135/output-onlinegiftools_o3zkhz.gif">
+
 <h3 align ="left" >Hi there, This is Abhay👋😁</h3>
 
 <!--
