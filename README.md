@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
   <img src="https://img.icons8.com/nolan/48/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="45px"/> 
+  <img width="44px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="45px"/>
   <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" width="45px"/>
