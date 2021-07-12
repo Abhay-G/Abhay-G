@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <a href = "https://www.abhaydev.me/" target="_blank"><img src="https://github.com/Abhay-G/Portfolio/blob/main/src/assets/logo.svg"></a>
 </br>
-<a href = "https://www.abhaydev.me/" targer="_blank"> Visit my website </a>
+<a href = "https://www.abhaydev.me/" target="_blank"> Visit my website </a>
 
 <p align="left">
   
