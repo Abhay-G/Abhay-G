@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href = "https://www.abhaydev.me/" target="_blank"><img src="https://github.com/Abhay-G/Portfolio/blob/main/src/assets/logo.svg"></a>
+</br>
+<a href = "https://www.abhaydev.me/" targer="_blank"> Visit my website </a>
+
 <p align="left">
+  
   <a href="https://www.linkedin.com/in/abhay-gupta-253a45198/" target="_blank" ><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30px" height="30px"></a>  
 </p>
 
