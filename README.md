@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href = "https://www.abhaydev.me/" target="_blank"><img src="https://github.com/Abhay-G/Portfolio/blob/main/src/assets/logo.svg"></a>
+<a href = "https://abhay07.netlify.app/" target="_blank"><img src="https://github.com/Abhay-G/Portfolio/blob/main/src/assets/logo.svg"></a>
 </br>
-<a href = "https://www.abhaydev.me/" target="_blank"> Visit my website </a>
+<a href = "https://abhay07.netlify.app/" target="_blank"> Visit my website </a>
 
 <p align="left">
   
